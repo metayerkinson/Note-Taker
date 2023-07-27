@@ -3,10 +3,10 @@ const express = require("express");
 const path = require("path");
 const fs = require("fs");
 const app = express();
-// const cors = require("cors");
+const cors = require("cors");
 var PORT = process.env.PORT || 8000;
 app.use(express.static(__dirname + "/public"));
-// app.use(cors());
+app.use(cors());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
