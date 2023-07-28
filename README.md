@@ -31,16 +31,16 @@ For an easier method of accessing the app, use the heroku link.
 ## Usage
 
 On opening the app, the user will be presented with a landing page with a button to 'get started'. On clicking the button, the user will be taken to the notes app where user can enter a note with a title and save it. Saved notes will be displayed in the left-hand sidebar and on clicking a note in the sidebar, it will be displayed in the main notes section. Clicking the pencil icon in the tp right hand corner will clear all input fields so new notes can be entered. If a note in no longer needed, it can be deleted using the delete icon next to each note in the sidebar.
-![landing page demo](images/demo1.png)
+![landing page demo](develop/images/demo1.png)
 
-![note taking demo](images/demo2.png)
+![note taking demo](develop/images/demo2.png)
 
-![note taking demo](images/demo3.png)
+![note taking demo](develop/images/demo3.png)
 
 ## Questions
 
-The repo for this project can be found here:
+The repo for this project can be found here: https://github.com/metayerkinson/Note-Taker
 
 Heroku link :
 
-For any questions or to report issues, email me at:
+For any questions or to report issues, email me at: metayerkinson@gmail.com
