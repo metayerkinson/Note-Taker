@@ -41,6 +41,5 @@ On opening the app, the user will be presented with a landing page with a button
 
 The repo for this project can be found here: https://github.com/metayerkinson/Note-Taker
 
-Heroku link :
-
+Heroku link : https://express-node-note-app-686e2369044b.herokuapp.com/
 For any questions or to report issues, email me at: metayerkinson@gmail.com
